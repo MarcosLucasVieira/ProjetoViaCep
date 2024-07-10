@@ -1,4 +1,4 @@
-# ProjetoVia Cep
+# Projeto Busca Cep
 Este é um projeto que desenvolvi junto com o curso de programação orientada a objeto em java, da Escola de programação da alura
 ## Índice
 
