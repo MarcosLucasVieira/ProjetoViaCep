@@ -34,7 +34,7 @@ https://www.postman.com/downloads/
 https://www.jetbrains.com/idea/download/?section=windows
 
 ## Uso 
-O programa é bem dinâmico para o uso, assim que instalar tudo no terminal ira pedir para que digite o numero do Cep que deseja buscar, e ele irá retorna no terminal o numero e também irá criar um arquivo Json em sua pasta já com SettPrettyPrinting para melhor entendimento do usuário, a API pode ser gerada diversas vezes assim podendo fazer consulta e enquanto armazena as irformações em arquivo.json. 
+O programa é bem dinâmico para o uso, assim que instalar tudo no terminal irá pedir para que digite o número do Cep que deseja buscar, e ele irá retornar no terminal o número e também irá criar um arquivo Json em sua pasta já com SettPrettyPrinting para melhor entendimento do usuário, a API pode ser gerada diversas vezes assim podendo fazer consulta e enquanto armazena as informações em arquivo.json.
 
 As Excepition foram tratadas com a Class Excepition, e trazendo um retorno que o cep não foi possivel ser encontrado, caso tenha erro de digitação, ou para testes mesmo. 
 
